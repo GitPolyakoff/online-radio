@@ -1,0 +1,70 @@
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\obj\Debug\OnlineRadio.Properties.Resources.resources
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\obj\Debug\OnlineRadio.csproj.GenerateResource.cache
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\obj\Debug\OnlineRadio.csproj.CoreCompileInputs.cache
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\NAudio.Asio.dll
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\NAudio.Core.dll
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\NAudio.dll
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\NAudio.Midi.dll
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\NAudio.Wasapi.dll
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\NAudio.WinForms.dll
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\NAudio.WinMM.dll
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\System.Security.AccessControl.dll
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\NAudio.xml
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\NAudio.Asio.xml
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\NAudio.Core.xml
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\NAudio.Midi.xml
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\NAudio.Wasapi.xml
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\NAudio.WinForms.xml
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\NAudio.WinMM.xml
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\System.Security.AccessControl.xml
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\obj\Debug\OnlineRadio.csproj.CopyComplete
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\obj\Debug\OnlineRadio.AddForm.resources
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\obj\Debug\OnlineRadio.MainForm.resources
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\CodeeloUI.dll
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\System.Drawing.Common.dll
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\System.Drawing.Common.xml
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\Радио Online.exe.config
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\Радио Online.exe
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\bin\Debug\Радио Online.pdb
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\obj\Debug\Радио Online.exe
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\obj\Debug\Радио Online.pdb
+C:\Users\partn\source\repos\OnlineRadio\OnlineRadio\obj\Debug\OnlineRadio.csproj.AssemblyReference.cache
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\Радио Online.exe.config
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\Радио Online.exe
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\Радио Online.pdb
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\CodeeloUI.dll
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\NAudio.Asio.dll
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\NAudio.Core.dll
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\NAudio.dll
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\NAudio.Midi.dll
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\NAudio.WinForms.dll
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\NAudio.WinMM.dll
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\System.Drawing.Common.dll
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\NAudio.xml
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\NAudio.Asio.xml
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\NAudio.Core.xml
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\NAudio.Midi.xml
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\NAudio.WinForms.xml
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\NAudio.WinMM.xml
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\System.Drawing.Common.xml
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\obj\Debug\OnlineRadio.csproj.AssemblyReference.cache
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\obj\Debug\OnlineRadio.AddForm.resources
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\obj\Debug\OnlineRadio.MainForm.resources
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\obj\Debug\OnlineRadio.Properties.Resources.resources
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\obj\Debug\OnlineRadio.csproj.GenerateResource.cache
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\obj\Debug\OnlineRadio.csproj.CoreCompileInputs.cache
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\obj\Debug\OnlineRa.B64AE4E7.Up2Date
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\obj\Debug\Радио Online.exe
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\OnlineRadio\OnlineRadio\obj\Debug\Радио Online.pdb

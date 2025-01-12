@@ -1,0 +1,41 @@
+Радио Маяк,http://icecast.vgtrk.cdnvideo.ru/mayakfm
+Панки Хой!,http://nashe1.hostingradio.ru:80/nashepunks.mp3
+Высоцкий,http://rusradio.hostingradio.ru/vysockij96.aacp
+Доброе Радио,http://91.189.162.134:8008/;stream.nsv
+Радио Сигма,http://195.191.130.125:8000/sigma
+Маруся FM,http://radio-holding.ru:9000/marusya_default
+DISCOTEKA 90x,http://listen1.myradio24.com:9000/5967
+Al Capone FM,http://s04.radio-tochka.com:4890/radio
+Love Is Radio,http://listen1.myradio24.com:9000/3355
+Русское Радио,http://rusradio.hostingradio.ru/rusradio128.mp3
+Взрослое радио,http://listen6.myradio24.com:9000/alex542888
+Юмор FM,http://ic7.101.ru:8000/v5_1
+Радио Шансон,http://chanson.hostingradio.ru:8041/chanson256.mp3
+Хит FM,http://hitfm.hostingradio.ru/hitfm128.mp3
+Союз FM,http://soyuzfm.su:9000/soyuzfm-320.mp3
+Радио России,http://icecast.vgtrk.cdnvideo.ru/rrzonam
+Ретро FM,http://online-1.gkvr.ru:8000/retro_rnd_64.aac
+Европа Плюс,http://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3
+Донат FM - Музыка СССР,https://c6.radioboss.fm:18098/stream
+Вести FM,http://icecast.vgtrk.cdnvideo.ru/vestifm
+Радио NRJ,http://ic7.101.ru:8000/v1_1
+Радио Maximum,http://maximum.hostingradio.ru/maximum128.mp3
+Радио DFM,http://dfm.hostingradio.ru/dfm128.mp3
+Новое Радио,http://icecast.newradio.cdnvideo.ru/newradio3
+Наше Радио,http://nashe1.hostingradio.ru:80/nashe-256
+Камеди Радио,http://ic7.101.ru:8000/v11_1
+Дорожное Радио,http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
+Авторадио,http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_330
+Radio Spinner - СССР Хит,https://live.radiospinner.com/sssrht-64
+Phonk,http://radiorecord.hostingradio.ru/phonk96.aacp
+Radio Record,http://radiorecord.hostingradio.ru/rr_spb
+МУЗ Радио,http://online-3.gkvr.ru:8000/muztvradio_original_128.mp3
+Европа Плюс,http://online-1.gkvr.ru:8000/europa_rnd_64.aac
+Радио RFM,http://radio-holding.ru:9000/rfm
+Радио Н,http://online.radio-n.ru:8000/radio
+Серебряный Дождь,http://silverrain.hostingradio.ru/silver128.mp3
+Пилот FM,http://online.pilotfm.ru:8000/pilot
+Эльдорадио,http://emgspb.hostingradio.ru/eldoradio128.mp3
+Лайк FM,http://pub0302.101.ru:8000/stream/reg/mp3/128/region_like_20
+Маруся,http://radio-holding.ru:9000/marusya_default
+Шоколад,http://choco.hostingradio.ru:10010/fm
